@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/git@github.com:Gautam-jangir/expense_tracker/static/css/main.e19e8732.css",
-    "main.js": "/git@github.com:Gautam-jangir/expense_tracker/static/js/main.b9cf4294.js",
-    "index.html": "/git@github.com:Gautam-jangir/expense_tracker/index.html",
-    "main.e19e8732.css.map": "/git@github.com:Gautam-jangir/expense_tracker/static/css/main.e19e8732.css.map",
-    "main.b9cf4294.js.map": "/git@github.com:Gautam-jangir/expense_tracker/static/js/main.b9cf4294.js.map"
+    "main.css": "/expense_tracker/static/css/main.e19e8732.css",
+    "main.js": "/expense_tracker/static/js/main.b9cf4294.js",
+    "index.html": "/expense_tracker/index.html",
+    "main.e19e8732.css.map": "/expense_tracker/static/css/main.e19e8732.css.map",
+    "main.b9cf4294.js.map": "/expense_tracker/static/js/main.b9cf4294.js.map"
   },
   "entrypoints": [
     "static/css/main.e19e8732.css",
